@@ -1,0 +1,13 @@
+# Not Required for CC Progress
+
+PROG/06-scrum
+JAVA-WEB/02-dependencies-spring
+JAVA-WEB/03-spring-data-jpa
+JAVA-WEB/04-rest-api
+JAVA-WEB/05-secure-api-jwt
+JAVA-WEB/06-unit-testing-web-components
+JAVA-WEB/07-build-deploy
+
+# File System Management
+
+.DS_Store
